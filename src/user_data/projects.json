@@ -1,65 +1,96 @@
 {
   "projects": [
     {
-      "title": "Automated Water Filtering system",
-      "description": "A hardware-software solution for clean water processing using Arduino and sensors.",
+      "title": "3D-Printed Robotic Arm",
+      "description": "Built and programmed a 3D-printed robotic arm capable of lifting up to 1 kg.",
       "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/project1/800/600", "hint": "water filtration system" },
-        { "type": "image", "url": "https://picsum.photos/seed/project1-2/800/600", "hint": "arduino board" }
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=3D-Printed+Robotic+Arm",
+          "hint": "project placeholder"
+        }
       ],
-      "tags": ["Arduino", "C++", "Electronics", "Hardware"],
+      "tags": [
+        "Arduino",
+        "Stepper motors",
+        "A4988 drivers",
+        "C++",
+        "Python",
+        "G-code",
+        "Fusion 360",
+        "Onshape",
+        "3D printing",
+        "Up to 1 kg"
+      ],
       "projectUrl": "",
-      "details": "This project features a real-time monitoring system that controls filtration based on water quality sensors. The dashboard displays turbidity and pH levels, ensuring safe output."
+      "details": "I built this robotic arm as a personal project to learn more about 3D printing, electronics, motor control, and mechanical assembly. I started with publicly available design files, printed the components, assembled the electronics, and programmed the completed arm. The original gearbox frequently jammed after printing, so I adjusted part tolerances and tested several versions until the gears moved reliably without becoming too loose. I also tested different power supplies to determine whether slipping and inconsistent movement resulted from mechanical resistance or insufficient power. My contribution was printing, assembling, programming, troubleshooting, adjusting tolerances, and modifying components rather than designing the entire robotic arm from scratch."
     },
     {
-      "title": "Real-time Collaborative Whiteboard",
-      "description": "An interactive whiteboard application allowing multiple users to draw together in real-time.",
+      "title": "GNTCR Steering Grip",
+      "description": "Designed and iterated a glove-friendly steering grip for the University of Ottawa's concrete toboggan team.",
       "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/project2/800/600", "hint": "collaborative whiteboard UI" }
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=GNTCR+Steering+Grip",
+          "hint": "project placeholder"
+        }
       ],
-      "tags": ["Next.js", "WebSockets", "TypeScript"],
-      "projectUrl": "#",
-      "details": "Built with Next.js and TypeScript, this application uses WebSockets to enable low-latency communication. Users can draw, write, and add shapes simultaneously."
+      "tags": [
+        "3D CAD",
+        "Ergonomic design",
+        "3D printing",
+        "Rapid prototyping",
+        "Design iteration",
+        "Team collaboration",
+        "Grade 11 Summer"
+      ],
+      "projectUrl": "",
+      "details": "I joined the University of Ottawa's Great Northern Concrete Toboggan Race team during the summer after Grade 11 and became the team's first high-school member. The team's steering system used an upright lever connected through a linkage to the front skis, and my contribution was designing the grip for the top of that steering lever. I used my own hand as a starting reference and created approximately three CAD versions. The main challenge was making the grip comfortable to hold while wearing winter gloves, so I iterated on U-shaped finger grooves until a gloved hand could sit more naturally around the handle. The team then 3D-printed the grip."
     },
     {
-      "title": "Home Automation System with Raspberry Pi",
-      "description": "A custom system to control lights and appliances remotely using a Raspberry Pi.",
+      "title": "Mars Lander Prototype",
+      "description": "Designed and impact-tested a cardboard prototype for a simulated Mars lander carrying eight exploration rovers.",
       "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/project3/800/600", "hint": "raspberry pi setup" }
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=Mars+Lander+Prototype",
+          "hint": "project placeholder"
+        }
       ],
-      "tags": ["Python", "IoT", "Flask", "Hardware"],
-      "projectUrl": "#",
-      "details": "This IoT project combines hardware and software to create a smart home hub. A Flask server on a Raspberry Pi controls various relays for lights and monitoring."
+      "tags": [
+        "Blender",
+        "Cardboard prototyping",
+        "Drop testing",
+        "Impact-force simulation",
+        "Structural iteration",
+        "Mars mission design"
+      ],
+      "projectUrl": "",
+      "details": "As part of an Ottawa-Carleton Educational Space Simulation mission to Mars, our 10-20-person team planned an exploration system consisting of one large lander, four larger rovers, and four smaller exploration rovers. I was independently assigned to design the large lander and rover dock, with the main responsibility of making sure the structure could withstand landing forces without cracking or collapsing. The prototype was mechanical only, with no motors, sensors, or electronics. I created the lander design in Blender and built a scale prototype from cardboard. After using the mission's simulation software to estimate landing impact force, I added an equivalent test mass and performed drop tests across approximately five versions until the final prototype survived without cracking."
     },
     {
-      "title": "E-commerce Platform for Local Artisans",
-      "description": "A full-featured e-commerce site to help local artists sell their creations online.",
+      "title": "Wildfire Early-Detection System",
+      "description": "Built an Arduino and Raspberry Pi prototype for a distributed, low-cost wildfire early-warning network.",
       "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/project4/800/600", "hint": "e-commerce storefront" }
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=Wildfire+Early-Detection+System",
+          "hint": "project placeholder"
+        }
       ],
-      "tags": ["Vue.js", "Firebase", "Stripe"],
-      "projectUrl": "#",
-      "details": "Provides a platform for local artists to showcase work. Built on Vue.js with Firebase for storage and Stripe for secure payments."
-    },
-    {
-      "title": "Mobile App for Language Learning",
-      "description": "A gamified mobile app that makes learning a new language fun and interactive.",
-      "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/project5/800/600", "hint": "language app screenshot" }
+      "tags": [
+        "Arduino",
+        "Raspberry Pi 4",
+        "Temperature sensing",
+        "USB camera",
+        "WebSockets",
+        "Ethernet networking",
+        "Early-warning systems",
+        "Distributed sensors",
+        "Prototype testing"
       ],
-      "tags": ["React Native", "Gamification", "UI/UX"],
-      "projectUrl": "#",
-      "details": "A gamified mobile app developed with React Native. It features interactive quizzes, flashcards, and progress-tracking challenges."
-    },
-    {
-      "title": "Data Visualization of Climate Change",
-      "description": "An interactive dashboard that visualizes global climate data trends.",
-      "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/project6/800/600", "hint": "climate data dashboard" }
-      ],
-      "tags": ["D3.js", "Data Science", "API"],
-      "projectUrl": "#",
-      "details": "Built with D3.js to visualize complex climate data. Animated charts and maps illustrate temperature trends and CO2 levels over decades."
+      "projectUrl": "",
+      "details": "During a period of severe Canadian wildfires, I investigated whether inexpensive sensors distributed throughout forests could detect dangerous temperature changes earlier and provide a more precise location for further investigation. My proposed full-scale concept used many low-cost sensor nodes, estimated at approximately $5 each, with warnings eventually relayed through a satellite-connected network to a monitoring office. I built a working local prototype using an Arduino, temperature sensor, Raspberry Pi 4, and a low-cost USB webcam. I programmed a WebSocket-based communication system that transmitted sensor information over wired Ethernet to a computer without relying on Wi-Fi. The satellite communication was proposed but not implemented or tested, and the working prototype focused on local sensing, Ethernet communication, and decision support rather than fire suppression."
     }
   ]
 }

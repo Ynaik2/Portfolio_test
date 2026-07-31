@@ -1,42 +1,64 @@
-
 {
   "stories": [
     {
-      "title": "The First Spark",
-      "description": "Where it all began...",
+      "title": "MDS Aerospace",
+      "description": "AI Business & Systems Automation Engineer - June 2026 - Present",
       "media": [
-        { "type": "image", "url": "/intro.png", "hint": "your custom code photo" },
-        { "type": "video", "url": "/vi.mp4", "hint": "demo video" },
-        { "type": "image", "url": "https://picsum.photos/seed/spark2/800/600", "hint": "retro computer" }
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=MDS+Aerospace",
+          "hint": "experience placeholder"
+        }
       ],
-      "imageAlt": "Abstract representation of first code",
+      "imageAlt": "Placeholder card for MDS Aerospace experience",
       "layout": "imageRight",
-      "content": "I still remember the thrill of seeing \"Hello, World!\" appear on the screen. It wasn't just text; it was a realization that I could create something from nothing, just by writing lines of code.",
-      "popupContent": "That first 'Hello, World!' was written in Python. I was captivited by the potential of logic. I quickly moved from simple console outputs to creating small games and scripts to automate my daily tasks. This initial spark taught me that with logic and persistence, I could build tools to solve real problems."
+      "content": "Supporting internal AI and business-automation initiatives that improve access to technical information and reduce time spent on repetitive knowledge-search tasks.",
+      "popupContent": "At MDS Aerospace, I support internal AI and business-automation initiatives intended to make technical information easier for employees to find and use. My work includes developing tools that improve access to internal knowledge and reduce time spent on repetitive information-search tasks. Because these projects involve internal company information, their data, technical architecture, and specific applications are confidential. Areas: Local AI systems, business process automation, knowledge retrieval, and internal tools."
     },
     {
-      "title": "The Robotics Adventure",
-      "description": "Bringing code to life.",
+      "title": "University of Ottawa",
+      "description": "Machine Learning Research Assistant - July 2024",
       "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/robot1/800/600", "hint": "robotics workbench" },
-        { "type": "image", "url": "https://picsum.photos/seed/robot2/800/600", "hint": "circuit board" }
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=University+of+Ottawa",
+          "hint": "experience placeholder"
+        }
       ],
-      "imageAlt": "A robotics project in progress",
+      "imageAlt": "Placeholder card for University of Ottawa research experience",
       "layout": "imageLeft",
-      "content": "My journey into robotics was a game-changer. It was the perfect fusion of software and hardware, where my code could physically interact with the world.",
-      "popupContent": "Built on an Arduino platform, using infrared sensors to detect a black line. The real challenge was writing a PID control algorithm to make its movements smooth. The moment it perfectly navigated the course was a profound lesson in control systems."
+      "content": "Tested open-source deep-learning models that predict spatial gene expression from histology images.",
+      "popupContent": "I worked with an Assistant Professor of Biotechnology at the University of Ottawa to evaluate deep-learning models that predict spatial gene expression from images of tissue slices. Using Google Colab, I ran inference on professor-provided sample data and analyzed the resulting gene-expression predictions. I tested a range of open-source approaches, including models based on transformers, graph neural networks, contrastive learning, and image-to-RNA translation. Their outputs were compared with results from models developed in-house by the research team. Representative models that can be named publicly include Hist2ST, BLEEP, THItoGene, and HE2Gene."
     },
     {
-      "title": "My Philosophy",
-      "description": "What drives me forward.",
+      "title": "Sharkbyte",
+      "description": "Web Development Co-op Student - February 2024 - June 2024",
       "media": [
-        { "type": "image", "url": "https://picsum.photos/seed/phil1/800/600", "hint": "whiteboard ideas" },
-        { "type": "image", "url": "https://picsum.photos/seed/phil2/800/600", "hint": "creative space" }
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=Sharkbyte",
+          "hint": "experience placeholder"
+        }
       ],
-      "imageAlt": "A person thinking and planning",
+      "imageAlt": "Placeholder card for Sharkbyte experience",
       "layout": "imageRight",
-      "content": "I believe in the power of continuous learning and creative problem-solving. Technology is a tool, and its true potential is unlocked when applied with empathy.",
-      "popupContent": "I don't just ask 'Can we build it?' but 'Should we build it?'. For me, a successful project isn't just one that's technically impressive; it's one that is accessible, intuitive, and genuinely helpful."
+      "content": "Helped build the customer-facing interface of a full-stack e-commerce prototype after completing an intensive three-week introduction to web development.",
+      "popupContent": "During my high-school co-op at Sharkbyte, I worked with approximately 30 students to build a full-stack e-commerce prototype. The team was divided between frontend and backend development, with separate groups working on the customer and administrator interfaces. I contributed to the customer-facing side of the website, primarily working on the homepage, search interface, and product pages. We first designed pages collaboratively in Figma and then recreated the designs using HTML, CSS, PHP, and Tailwind CSS, with SQL supporting the website's database. One of the biggest challenges was closely matching the Figma designs using Tailwind CSS while learning how interface design, frontend code, backend functionality, databases, and basic web security fit together."
+    },
+    {
+      "title": "CellChem Pharmaceuticals",
+      "description": "Graphic Design & Web Support Intern - June 2024 - July 2024",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=CellChem+Pharmaceuticals",
+          "hint": "experience placeholder"
+        }
+      ],
+      "imageAlt": "Placeholder card for CellChem Pharmaceuticals experience",
+      "layout": "imageLeft",
+      "content": "Redesigned pharmaceutical packaging content and created website-interface mockups during a one-month placement.",
+      "popupContent": "During my placement at CellChem Pharmaceuticals, I supported the design of packaging for imported medicines being prepared for approval and sale in the Canadian market. Some existing packaging needed clearer text and informational tables, so I used Adobe Illustrator and Photoshop to revise text layouts, improve readability, and update graphics. I also reviewed parts of the company website, identified interface problems, and created mockups showing how pages such as the medicine slideshow and downloadable product list could be presented more clearly. I worked directly with the company's designer, presented completed versions, incorporated requested revisions, and supplied the updated design files. Because the placement lasted only one month, I do not know whether the packaging designs were ultimately manufactured or adopted."
     }
   ]
 }
