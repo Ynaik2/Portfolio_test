@@ -8,7 +8,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { cn } from "@/lib/utils";
-import academicData from "@/user_data/academic.json";
+import academicData from "@/user_data/academic";
 
 const { educationHistory, publications, researchInterests } = academicData;
 
