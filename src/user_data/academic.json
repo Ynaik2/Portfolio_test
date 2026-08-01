@@ -1,51 +1,27 @@
 {
   "educationHistory": [
     {
-      "degree": "M.S. in Computer Science",
-      "university": "Stanford University",
-      "universityUrl": "https://www.stanford.edu/",
-      "years": "2022-2024",
-      "description": "Specialization in Artificial Intelligence. Thesis on generative models for code synthesis."
+      "degree": "",
+      "university": "Queen's University",
+      "universityUrl": "https://www.queensu.ca/",
+      "years": "2025-2029",
+      "description": ""
     },
     {
-      "degree": "B.S. in Software Engineering",
-      "university": "University of Waterloo",
-      "universityUrl": "https://uwaterloo.ca/",
-      "years": "2018-2022",
-      "description": "Graduated with Distinction, Dean's List. Co-op experience at major tech companies."
+      "degree": "",
+      "university": "Lisgar Collegiate Institute, Ottawa",
+      "universityUrl": "https://lisgarci.ocdsb.ca/",
+      "years": "2023-2025",
+      "description": ""
     },
     {
-      "degree": "High School Diploma",
-      "university": "St. Xavier's High School",
-      "universityUrl": "#",
-      "years": "2014-2018",
-      "description": "Valedictorian, President of the Robotics Club. Focused on advanced mathematics and physics."
-    },
-    {
-      "degree": "Professional Certificate in Data Science",
-      "university": "Harvard University (Online)",
-      "universityUrl": "https://pll.harvard.edu/subject/data-science",
-      "years": "2021",
-      "description": "Comprehensive program covering data visualization, probability, inference, and modeling."
+      "degree": "",
+      "university": "The British School, New Delhi",
+      "universityUrl": "https://www.british-school.org/",
+      "years": "2020-2023",
+      "description": ""
     }
   ],
-  "publications": [
-    {
-      "title": "Generative Models for Code Synthesis and Autocompletion",
-      "conference": "Proceedings of the 45th International Conference on Software Engineering (ICSE 2024)",
-      "authorsAndSummary": "Yash N., et al. - This paper introduces a novel approach to code generation using a fine-tuned large language model, significantly improving accuracy in context-aware autocompletion tasks."
-    },
-    {
-      "title": "Privacy-Preserving AI in Healthcare",
-      "conference": "Journal of Artificial Intelligence Research (2023)",
-      "authorsAndSummary": "Yash N., Smith J. - A study on differential privacy techniques applied to federated learning models in medical diagnostics."
-    }
-  ],
-  "researchInterests": [
-    "Large Language Models (LLMs) and their application in software engineering.",
-    "Generative AI for creative content and code generation.",
-    "Efficient algorithms for big data processing and analysis.",
-    "Human-computer interaction, especially in the context of developer tools.",
-    "The ethics and societal impact of artificial intelligence."
-  ]
+  "publications": [],
+  "researchInterests": []
 }
