@@ -19,8 +19,7 @@
         "G-code",
         "Fusion 360",
         "Onshape",
-        "3D printing",
-        "Up to 1 kg"
+        "3D printing"
       ],
       "projectUrl": "",
       "details": "I built this robotic arm as a personal project to learn more about 3D printing, electronics, motor control, and mechanical assembly. I started with publicly available design files, printed the components, assembled the electronics, and programmed the completed arm. The original gearbox frequently jammed after printing, so I adjusted part tolerances and tested several versions until the gears moved reliably without becoming too loose. I also tested different power supplies to determine whether slipping and inconsistent movement resulted from mechanical resistance or insufficient power. My contribution was printing, assembling, programming, troubleshooting, adjusting tolerances, and modifying components rather than designing the entire robotic arm from scratch."
@@ -31,7 +30,12 @@
       "media": [
         {
           "type": "image",
-          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=GNTCR+Steering+Grip",
+          "url": "public/GNTCR.png",
+          "hint": "project placeholder"
+        },
+        {
+          "type": "image",
+          "url": "public/GNTCR_grip.png",
           "hint": "project placeholder"
         }
       ],
@@ -41,8 +45,7 @@
         "3D printing",
         "Rapid prototyping",
         "Design iteration",
-        "Team collaboration",
-        "Grade 11 Summer"
+        "Team collaboration"
       ],
       "projectUrl": "",
       "details": "I joined the University of Ottawa's Great Northern Concrete Toboggan Race team during the summer after Grade 11 and became the team's first high-school member. The team's steering system used an upright lever connected through a linkage to the front skis, and my contribution was designing the grip for the top of that steering lever. I used my own hand as a starting reference and created approximately three CAD versions. The main challenge was making the grip comfortable to hold while wearing winter gloves, so I iterated on U-shaped finger grooves until a gloved hand could sit more naturally around the handle. The team then 3D-printed the grip."
@@ -53,7 +56,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=Mars+Lander+Prototype",
+          "url": "public/OCESS.png",
           "hint": "project placeholder"
         }
       ],

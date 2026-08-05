@@ -6,7 +6,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=MDS+Aerospace",
+          "url": "public/MDS.png",
           "hint": "experience placeholder"
         }
       ],
@@ -21,7 +21,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=University+of+Ottawa",
+          "url": "public/Uottawa_Medicine.jpg",
           "hint": "experience placeholder"
         }
       ],
@@ -36,7 +36,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=Sharkbyte",
+          "url": "public/Sharkbyte.png",
           "hint": "experience placeholder"
         }
       ],
@@ -51,7 +51,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=CellChem+Pharmaceuticals",
+          "url": "public/cellchem.png",
           "hint": "experience placeholder"
         }
       ],
