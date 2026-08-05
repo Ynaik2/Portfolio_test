@@ -6,7 +6,27 @@
       "media": [
         {
           "type": "image",
-          "url": "https://placehold.co/800x600/0f172a/e2e8f0?text=3D-Printed+Robotic+Arm",
+          "url": "/Robotic_Arm.jpg",
+          "hint": "project placeholder"
+        },
+        {
+          "type": "image",
+          "url": "/Robotic_arm_2.jpg",
+          "hint": "project placeholder"
+        },
+        {
+          "type": "video",
+          "url": "/Robotic_Arm_2.mp4",
+          "hint": "project placeholder"
+        },
+        {
+          "type": "image",
+          "url": "/Robotic_Arm_3.jpg",
+          "hint": "project placeholder"
+        },
+        {
+          "type": "video",
+          "url": "/Robotic_Arm_3.mp4",
           "hint": "project placeholder"
         }
       ],
@@ -57,6 +77,19 @@
         {
           "type": "image",
           "url": "/OCESS.png",
+          "hint": "project placeholder"
+        },
+        {
+          "type": "image",
+          "url": "/Lander_1.jpg",
+          "hint": "project placeholder"
+        },{
+          "type": "image",
+          "url": "/Lander_2.jpg",
+          "hint": "project placeholder"
+        },{
+          "type": "image",
+          "url": "/Lander_3.jpg",
           "hint": "project placeholder"
         }
       ],
