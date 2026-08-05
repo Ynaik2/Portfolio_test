@@ -83,11 +83,7 @@ export default function Home() {
           A Brief Intro
         </h2>
         <p className="text-muted-foreground text-lg">
-          I am a builder, a creator, and a lifelong learner. My fascination with
-          how things work, from the intricacies of a computer chip to the vastness
-          of the web, has led me on an incredible journey. This website is a
-          curated collection of my work, thoughts, and experiences. Dive in to learn
-          more about what I do and what drives me.
+          I’m a Queen’s University engineering student and AI Business & Systems Automation Engineer at MDS Aerospace. I enjoy turning ideas into working prototypes—from robotic mechanisms and machine-learning experiments to accessible web experiences.
         </p>
       </section>
     </div>

@@ -11,7 +11,7 @@ export default function ContactPage() {
     <div className="container mx-auto px-4 py-12 md:py-20">
       <header className="text-center mb-12">
         <h1 className="font-headline text-4xl md:text-5xl font-extrabold tracking-tight mb-2">
-          Get In Touch
+          Let’s build something useful.
         </h1>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
           Have a question, a project idea, or just want to say hello? Drop me a line.
@@ -36,21 +36,15 @@ export default function ContactPage() {
               </Link>
             </Button>
             <Button asChild variant="outline" className="w-full justify-start text-lg p-6">
-              <Link href="#" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/yashas-naik-50569b359/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="mr-4 h-6 w-6" />
                 LinkedIn
               </Link>
             </Button>
             <Button asChild variant="outline" className="w-full justify-start text-lg p-6">
-              <Link href="#" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.instagram.com/yashasnaik.ca/" target="_blank" rel="noopener noreferrer">
                 <Instagram className="mr-4 h-6 w-6" />
                 Instagram
-              </Link>
-            </Button>
-            <Button asChild variant="outline" className="w-full justify-start text-lg p-6">
-              <Link href="#" target="_blank" rel="noopener noreferrer">
-                <Ghost className="mr-4 h-6 w-6" />
-                Snapchat
               </Link>
             </Button>
           </div>
