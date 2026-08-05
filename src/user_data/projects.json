@@ -30,12 +30,12 @@
       "media": [
         {
           "type": "image",
-          "url": "public/GNTCR.png",
+          "url": "/GNTCR.png",
           "hint": "project placeholder"
         },
         {
           "type": "image",
-          "url": "public/GNTCR_grip.png",
+          "url": "/GNTCR_grip.png",
           "hint": "project placeholder"
         }
       ],
@@ -56,7 +56,7 @@
       "media": [
         {
           "type": "image",
-          "url": "public/OCESS.png",
+          "url": "/OCESS.png",
           "hint": "project placeholder"
         }
       ],

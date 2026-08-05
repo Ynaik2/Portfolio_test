@@ -6,7 +6,7 @@
       "media": [
         {
           "type": "image",
-          "url": "public/MDS.png",
+          "url": "/MDS.png",
           "hint": "experience placeholder"
         }
       ],
@@ -21,7 +21,7 @@
       "media": [
         {
           "type": "image",
-          "url": "public/Uottawa_Medicine.jpg",
+          "url": "/Uottawa_Medicine.jpg",
           "hint": "experience placeholder"
         }
       ],
@@ -36,7 +36,7 @@
       "media": [
         {
           "type": "image",
-          "url": "public/Sharkbyte.png",
+          "url": "/Sharkbyte.png",
           "hint": "experience placeholder"
         }
       ],
@@ -51,7 +51,7 @@
       "media": [
         {
           "type": "image",
-          "url": "public/cellchem.png",
+          "url": "/cellchem.png",
           "hint": "experience placeholder"
         }
       ],
