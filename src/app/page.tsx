@@ -11,7 +11,7 @@ export default function Home() {
           Welcome to YashVerse
         </h1>
         <p className="max-w-2xl mx-auto text-lg md:text-xl text-muted-foreground mb-8">
-          Curious, creative, and always leveling up — I’m Yash, a teen who blends tech, wit, and real talk.
+          Curious, creative, and always leveling up. I’m Yash, a teen who blends tech, wit, and real talk.
         </p>
         <div className="flex justify-center gap-4">
           <Button asChild size="lg">
@@ -83,7 +83,7 @@ export default function Home() {
           A Brief Intro
         </h2>
         <p className="text-muted-foreground text-lg">
-          I’m a Queen’s University engineering student and AI Business & Systems Automation Engineer at MDS Aerospace. I enjoy turning ideas into working prototypes—from robotic mechanisms and machine-learning experiments to accessible web experiences.
+          I’m a Queen’s University engineering student and AI Business & Systems Automation Engineer at MDS Aerospace. I enjoy turning ideas into working prototypes from robotic mechanisms and machine-learning experiments to accessible web experiences.
         </p>
       </section>
     </div>
