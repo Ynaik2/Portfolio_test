@@ -132,7 +132,7 @@ export default function AboutPage() {
                       alt={story.imageAlt}
                       data-ai-hint={story.media[0].hint}
                       fill
-                      className="object-cover"
+                      className="object-contain"
                       priority={index === 0}
                     />
                   </div>

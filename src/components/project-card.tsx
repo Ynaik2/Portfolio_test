@@ -58,7 +58,7 @@ export default function ProjectCard({ title, description, media, tags, projectUr
             alt={title}
             data-ai-hint={previewImage.hint}
             fill
-            className="object-cover"
+            className="object-contain"
           />
         </div>
         <CardHeader>
@@ -96,7 +96,7 @@ export default function ProjectCard({ title, description, media, tags, projectUr
                   <AppVideo
                     src={currentMedia.url}
                     controls
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-contain"
                   />
                 ) : (
                   <Image
@@ -104,7 +104,7 @@ export default function ProjectCard({ title, description, media, tags, projectUr
                     alt={title}
                     data-ai-hint={currentMedia.hint}
                     fill
-                    className="object-cover"
+                    className="object-contain"
                   />
                 )}
 
